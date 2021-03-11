@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gestor_de_EstoquesIII/1.0.0": {
+        "runtime": {
+          "Gestor_de_EstoquesIII.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gestor_de_EstoquesIII/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

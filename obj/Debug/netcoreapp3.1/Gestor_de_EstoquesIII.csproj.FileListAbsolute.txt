@@ -1,0 +1,13 @@
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\bin\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.exe
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\bin\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.deps.json
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\bin\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.runtimeconfig.json
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\bin\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\bin\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.dll
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\bin\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.pdb
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.dll
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.pdb
+C:\Users\Carlos\source\repos\Gestor_de_EstoquesIII\obj\Debug\netcoreapp3.1\Gestor_de_EstoquesIII.genruntimeconfig.cache
